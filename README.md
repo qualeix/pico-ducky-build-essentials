@@ -1,6 +1,6 @@
 Ducky scripts are saved as "payload.dd" under root
 
-"adafruit-circuitpython-raspberry_pi_pico-en_US-9.2.6.uf2" always goes first to reboot as CIRCUITPYTHON
+"adafruit-circuitpython-raspberry_pi_pico-en_US-9.2.6.uf2" always goes first to reboot as CIRCUITPY
 
 Then, just copy everything (replace code.py when prompted)
 
